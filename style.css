@@ -1,0 +1,54 @@
+body {
+  font-family: sans-serif;
+  background-color: purple;
+}
+
+.text {
+  background-color: gold;
+  text-align: center;
+  border-style: solid;
+  padding: 10px;
+}
+
+#banner {
+  background-color: gold;
+  text-align: center;
+  border-style: solid;
+  padding: 20px;
+  margin: 5px;
+}
+
+h1 {
+  font-weight: 500px;
+}
+
+#cities {
+  margin: 10px;
+}
+
+#current {
+  margin: 10px;
+}
+
+#fiveday {
+  margin: 10px;
+}
+
+#citySpan {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+#leftList {
+  align-items: center;
+}
+
+.smallWeather {
+  width: 135px;
+  height: 185px;
+  margin: 5px;
+  padding: 5px;
+  outline-style: solid;
+  text-align: center;
+  background-color: gold;
+};
