@@ -16,4 +16,6 @@ So that I can plan a trip accordingly
 - WHEN I click on a city in the search history
 - THEN I am again presented with current and future conditions for that city
 
+Please visit (https://coderlee920.github.io/06-Weather-Forcast/)
 
+[![weather-img.png](https://i.postimg.cc/hjrSCMy6/weather-img.png)](https://postimg.cc/VrJQv9cW)
